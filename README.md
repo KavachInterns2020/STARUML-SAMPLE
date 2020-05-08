@@ -1,0 +1,1 @@
+# STARUML-SAMPLE
